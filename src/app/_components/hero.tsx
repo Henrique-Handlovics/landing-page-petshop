@@ -42,7 +42,7 @@ export function Hero(){
                         data-aos-delay="500"
                         href={`https://wa.me/556799998800?text=Olá vim pelo site e gostaria de mais informações.`}
                         target='_black'
-                        className=" bg-green-500 px-5 py-2 rounded-md font-semibold flex items-center w-fit gap-2"
+                        className=" bg-green-500 px-5 py-2 rounded-md font-semibold flex items-center w-fit gap-2 hover:bg-green-600"
                         >
                             < WhatsappLogoIcon className='w-5 h-5' />
                             Contato via WhatsApp

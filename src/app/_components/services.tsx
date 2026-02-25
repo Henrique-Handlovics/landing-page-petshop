@@ -102,6 +102,10 @@ export default function Services(){
                                                     <span>{item.duration}</span>
                                                 </div>
 
+                                                <div className='flex items-center gap-2 text-sm'>
+                                                    <span>{item.price}</span>
+                                                </div>
+
                                                 <a 
                                                 href={`https://wa.me/556799998800?text=Olá vim pelo site e gostaria de mais informações sobre ${item.title}.`}
                                                 target='_black'
