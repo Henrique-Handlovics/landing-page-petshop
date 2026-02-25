@@ -59,15 +59,16 @@ export function About(){
                             </li>
                             <li className="flex items-center gap-2">
                                 <Check className="text-red-500" />
-                                Qualidade é nossa preioridade.
+                                Qualidade é nossa prioridade.
                             </li>
                     </ul>
 
                         <div className="flex gap-2">
 
                             <a 
-                            href="#"
-                            className="bg-[#E84C3D] text-white flex items-center justify-center w-fit gap-2 px-4 py-2 rounded-md"
+                            href={`https://wa.me/556799998800?text=Olá vim pelo site e gostaria de mais informações.`}
+                            target='_black'
+                            className="bg-[#E84C3D] text-white flex items-center justify-center w-fit gap-2 px-4 py-2 rounded-md hover:bg-red-600"
                             >
                                 <WhatsappLogoIcon className="w-5 h-5 text-white" />
                                 Contato via WhatsApp
