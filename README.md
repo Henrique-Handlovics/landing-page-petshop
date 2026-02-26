@@ -1,36 +1,40 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+🐾 Landing Page Petshop
 
-## Getting Started
+Landing page moderna e responsiva para um Petshop, desenvolvida com foco em boas práticas de Front-end utilizando Next.js e TypeScript.
 
-First, run the development server:
+🔗 Deploy: https://landing-page-petshop-pi.vercel.app/
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+🔗 Repositório: https://github.com/Henrique-Handlovics/landing-page-petshop
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+<hr>
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+🚀 Sobre o Projeto
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Projeto desenvolvido para praticar a criação de interfaces modernas e responsivas, aplicando conceitos de componentização, organização de estrutura e otimização de performance.
 
-## Learn More
+A aplicação simula a landing page de um petshop, com foco em apresentação visual clara e experiência do usuário.
 
-To learn more about Next.js, take a look at the following resources:
+<hr>
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+🛠️ Tecnologias
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Next.js
 
-## Deploy on Vercel
+TypeScript
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+CSS / Estilização responsiva
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Deploy na Vercel
+
+<hr>
+
+🎓 Inspiração
+
+Projeto desenvolvido com base nos ensinamentos do canal Sujeito Programador, aplicado como prática para consolidação de conhecimentos.
+
+<hr>
+
+👨‍💻 Autor
+
+Henrique Handlovics
+🔗 GitHub: https://github.com/Henrique-Handlovics
